@@ -1,4 +1,26 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name]
+
+🎓 **Background**: BSc in Software Engineering, MSc in Data Science  
+💼 **Looking for**: Full-time opportunities in Software/Data/ML Engineering  
+🛠️ **Skills**: Python, JavaScript, SQL, TensorFlow, Docker, Git, React, etc.  
+📍 **Location**: [City, Country] | Open to Remote  
+📫 **Contact**: [email@example.com] | [LinkedIn](linkedin.com/in/yourprofile)  
+
+---
+
+### 🚀 Featured Projects
+
+- **[Project Name](link)** — [1-sentence summary]
+- **[Project Name](link)** — [1-sentence summary]
+- **[Project Name](link)** — [1-sentence summary]
+
+> More on my [portfolio](your-portfolio-link-if-any)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
 
 <!--
 **koczka990/koczka990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
