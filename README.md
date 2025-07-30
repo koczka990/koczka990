@@ -1,25 +1,25 @@
-### 👋 Hi, I'm [Your Name]
+### 👋 Hi, I'm Vencel
 
 🎓 **Background**: BSc in Software Engineering, MSc in Data Science  
 💼 **Looking for**: Full-time opportunities in Software/Data/ML Engineering  
-🛠️ **Skills**: Python, JavaScript, SQL, TensorFlow, Docker, Git, React, etc.  
-📍 **Location**: [City, Country] | Open to Remote  
-📫 **Contact**: [email@example.com] | [LinkedIn](linkedin.com/in/yourprofile)  
+🛠️ **Skills**: Python, .NET, SQL, PyTorch, Docker  
+📍 **Location**: Budapest | Open to Remote  
+📫 **Contact**: koczka990@gmail.com | [LinkedIn](www.linkedin.com/in/vencel-dávid-koczka-2aab8425a)  
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Project Name](link)** — [1-sentence summary]
+<!--- **[Project Name](link)** — [1-sentence summary]
 - **[Project Name](link)** — [1-sentence summary]
 - **[Project Name](link)** — [1-sentence summary]
 
 > More on my [portfolio](your-portfolio-link-if-any)
-
+-->
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koczka990&show_icons=true&theme=default)
 
 
 <!--
