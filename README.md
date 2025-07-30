@@ -16,11 +16,13 @@
 
 > More on my [portfolio](your-portfolio-link-if-any)
 -->
+
+<!--
 ---
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koczka990&show_icons=true&theme=default)
-
+-->
 
 <!--
 **koczka990/koczka990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
